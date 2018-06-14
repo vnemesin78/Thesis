@@ -1,0 +1,11 @@
+# Fusion parameters
+
+%Nb images for the fusion
+fusion::nb_images = 15
+
+%Fusion type ( 0 -> linear score, 1 -> exp. score )
+fusion::type = 0
+
+%Saving
+fusion::savings = 
+[1	3	5	7	9	11	13]
